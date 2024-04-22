@@ -1,0 +1,39 @@
+.title {
+    text-align: center;
+    font-size: 4vh;
+}
+.username, .password{
+    font-size: 2vh;
+    width: 90%;
+    margin: 10px 5%;
+    display: block;
+}
+
+.username .a, .password .a {
+    display: inline-block;
+    width: 12%;
+    height: 50px;
+    font-size: 1.6vh;
+    text-align: left;
+    line-height: 50px;
+    margin: 30px 3%;
+}
+.username input, .password input {
+    width: 74%;
+    height: 40px;
+    font-size: 2vh;
+    padding: 0 5px;
+    margin: 0 auto;
+    border: 1px black solid             ;
+}
+.button {
+    margin: 0 5%;
+    width: 90%;
+    text-align: center;
+}
+.button button {
+    font-size: 2vh;
+    padding: 10px 8%;
+    margin:  20px 4%;
+    border: 1px black solid;
+}

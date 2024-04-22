@@ -1,0 +1,7 @@
+{
+    "port": 4000,
+    "watch": true,
+    "read-only": false,
+    "no-cors": false,
+    "no-gzip": false
+}
